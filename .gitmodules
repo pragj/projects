@@ -1,0 +1,9 @@
+[submodule "python-projects"]
+	path = python-projects
+	url = https://github.com/pragj/python-projects.git
+[submodule "nodejs-projects"]
+	path = nodejs-projects
+	url = https://github.com/pragj/nodejs-projects.git
+[submodule "javascript-projects"]
+	path = javascript-projects
+	url = https://github.com/pragj/javascript-projects.git
